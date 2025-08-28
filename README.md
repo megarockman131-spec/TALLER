@@ -39,5 +39,5 @@ taller/
 ## Instrucciones de ejecución
 verificar si el compilador esta instalado con el comando gcc --versión.
 una ves instalado
-una ves instalado, usar la exencion .run code de VS code
+una ves instalado, usar la exencion code runner code de VS code
 abrir el archivo cpp y darle en ejecutar.
